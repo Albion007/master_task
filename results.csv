@@ -1,0 +1,15 @@
+Metric,Value
+Test Duration (s),30
+Processes Used,4
+URL,http://localhost:5000
+Total Requests,0
+Failed Requests,22249
+Average Response Time (s),0
+CPU Usage (%),63.7
+RAM Usage Change (MB),19.69
+Network Sent (MB),3.24
+Network Received (MB),3.24
+Curl DNS Lookup (s),3.9e-05
+Curl Connect Time (s),0.0
+Curl TTFB (s),0.0
+Curl Total Time (s),0.000407

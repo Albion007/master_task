@@ -1,0 +1,6 @@
+INFO: Connection successful
+ERROR: Failed to authenticate user
+INFO: Session started
+WARNING: Low memory
+ERROR: Timeout while connecting
+...
